@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Developing NutriFitAI, an AI-powered fitness and nutrition assistant, and exploring IoT-based SoC systems for smart agriculture using VEGA/SHANKTI platforms.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects related to IoT, embedded systems, and AI integration — especially those that bridge technology and sustainability.<br><br>🧠 I’m currently learning:<br><br>Internet of Things (IoT)<br><br>Advanced Database Management Systems (ADBMS)<br><br>Microcontroller interfacing and cache memory management<br><br>💬 Ask me about:<br><br>System-on-Chip (SoC) development<br><br>Sensor integration and data communication protocols (I²C, SPI, Zigbee)<br><br>Full-stack project development and event marketing<br><br>⚡ Fun fact:<br>When I’m not debugging circuits or code, I love exploring how tech can empower modern agriculture and health 🌾💪
+I'm Sarvesh Avhad.
 
 
 ## 🌐 Socials:
