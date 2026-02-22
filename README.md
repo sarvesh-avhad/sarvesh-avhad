@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sarvesh Avhad.
+I'm Sarvesh Avhad currently in Third year of studying Information Technology.
 
 
 ## 🌐 Socials:
