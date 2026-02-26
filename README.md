@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sarvesh Avhad currently in Third year of studying Information Technology.
+I'm Sarvesh Avhad currently in Third year of studying Information Technology. 
 
 
 ## 🌐 Socials:
@@ -25,3 +25,4 @@ I'm Sarvesh Avhad currently in Third year of studying Information Technology.
 [![](https://visitcount.itsvg.in/api?id=sarvesh-avhad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
