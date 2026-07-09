@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm Sarvesh Avhad currently in final year of studying Information Technology. 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_sarveshh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarvesh-avhad-64133a290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarveshavhad4@gmail.com) 
 
